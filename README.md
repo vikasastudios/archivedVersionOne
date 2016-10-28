@@ -1,7 +1,7 @@
 
 
 
-# [V Studios Landing Page](http://vikasastudios.github.io)
+# [Vikasa Studios Landing Page](http://vikasastudios.github.io)
 
 ## Bugs and Issues
 
